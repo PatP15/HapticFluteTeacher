@@ -1,3 +1,3 @@
 # HapticFluteTeacher
 The code for my Instructable is kept here.
-My username on Instructables is The Puma
+https://www.instructables.com/Haptic-Flute-Teacher/
